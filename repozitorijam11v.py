@@ -7,7 +7,7 @@ print(5**4)
 #2)Âdams Aleksis Henrijs
 
 #3)Dorbe Henrijs
-
+print(7-1)
 #4)Dunajevs Mârtiòð
 
 #5)Gulbis Kristaps
